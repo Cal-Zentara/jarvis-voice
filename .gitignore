@@ -1,0 +1,10 @@
+__pycache__/
+*.log
+*.onnx
+*.bin
+
+# Never commit the key
+elevenlabs.key
+
+# Internal notes, not for the public repo
+STATUS.md
